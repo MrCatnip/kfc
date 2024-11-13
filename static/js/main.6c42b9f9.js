@@ -56107,7 +56107,7 @@
                       )
                     ),
                     (0, Nt.jsx)(Ki, {
-                      href: "https://pump.fun/SVnMGCRnYMDoNytFF2CR1L1k2dN6zJgBY39p3C4HKFC",
+                      href: "https://pump.fun/Lv3UzmWfvr4bNNbkSQ6ks9Z1H13nNiJGXm9CMSNiGgA",
                       target: "_blank",
                       children: (0, Nt.jsxs)(_i, {
                         className: "font-kungfumaster",
@@ -57905,7 +57905,7 @@
                       transform: "translate(-50%,-50%)",
                     },
                     children: (0, Nt.jsx)(Ki, {
-                      href: "https://pump.fun/SVnMGCRnYMDoNytFF2CR1L1k2dN6zJgBY39p3C4HKFC",
+                      href: "https://pump.fun/Lv3UzmWfvr4bNNbkSQ6ks9Z1H13nNiJGXm9CMSNiGgA",
                       target: "_blank",
                       children: (0, Nt.jsxs)(_i, {
                         className: "font-kungfumaster",
