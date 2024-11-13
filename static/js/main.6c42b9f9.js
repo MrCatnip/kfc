@@ -52292,7 +52292,7 @@
             key: "telegram",
             externalLink: !0,
             img: "/images/icons/telegram.png",
-            url: "https://t.me/SolanaKungFuCat",
+            url: "https://t.me/SolanaKFCat",
           },
         ],
         vi = {
